@@ -1,6 +1,6 @@
 This project utilizes React Hooks to create a simple todolist app.
 
-<img src="./src/assets/AppScreenShot.JPG" width="250" align="right">
+<img src="./src/assets/AppScreenShot.JPG" width="500" align="center">
 
 ## Available Scripts
 
