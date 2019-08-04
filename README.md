@@ -1,7 +1,3 @@
-This project uses React Hooks to create a simple todolist.
-
-
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
