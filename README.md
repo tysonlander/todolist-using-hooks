@@ -1,6 +1,10 @@
 This project uses React Hooks to create a simple todolist.
 
+<<<<<<< HEAD
 <img scr='./src/assets/AppScreenShot.JPG'/>
+=======
+
+>>>>>>> c7bed6833119570874edec52d5297d3afb28210d
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
