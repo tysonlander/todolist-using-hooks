@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project utilizes React Hooks to create a simple todolist app.
+
+<img src="./src/assets/AppScreenShot.JPG" width="250" align="right">
 
 ## Available Scripts
 
